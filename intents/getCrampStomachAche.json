@@ -1,0 +1,36 @@
+{
+  "id": "f1f2c965-0a92-45c4-a13b-e92060ebf595",
+  "name": "getCrampStomachAche",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Drink ample amounts of water and rest for a while. It might be due to indigestion or acidity.",
+            "It might be acidity or indigestion. Do not panic. Drink plenty of water and rest."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

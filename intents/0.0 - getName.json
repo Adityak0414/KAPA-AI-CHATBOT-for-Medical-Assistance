@@ -1,0 +1,69 @@
+{
+  "id": "93af8aba-9209-4569-a107-0052995e3fa5",
+  "name": "0.0 - getName",
+  "auto": true,
+  "contexts": [
+    "getName"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getName",
+          "lifespan": 0,
+          "parameters": {}
+        },
+        {
+          "name": "getTheFeels",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "355f925f-1deb-478a-84c8-8b5a3ff8e7e4",
+          "name": "givenName",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$givenName",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, I didn\u0027t get your name. Can you repeat that please?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What a sweet name!\nAlright $givenName, let me hear more about you.\nTell me, how was your day?",
+            "That\u0027s a lovely name!\nHow are you feeling today, $givenName?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

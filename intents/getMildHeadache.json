@@ -1,0 +1,37 @@
+{
+  "id": "d0fa2f1e-7dce-49f0-bceb-3ac17b668740",
+  "name": "getMildHeadache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If it is a mild headache consider taking a paracetamol and take rest for a while.",
+            "It is a mild headache, so you need not worry. Take a paracetamol tablet, drink ample amounts of water and rest",
+            "Drink ample amounts of water, if needed take a paracetamol tablet. Rest for a while."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

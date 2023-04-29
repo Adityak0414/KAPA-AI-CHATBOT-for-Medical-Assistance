@@ -1,0 +1,79 @@
+{
+  "id": "9bf6636d-5f5c-4cce-be8d-ed7eff656f80",
+  "name": "5.0 - askAppetite",
+  "auto": true,
+  "contexts": [
+    "getNoIncident"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getYesAppetite",
+          "lifespan": 2,
+          "parameters": {}
+        },
+        {
+          "name": "getNoAppetite",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cb0bc8dc-6089-4f76-a90a-3b0039eb208b",
+          "name": "feelings",
+          "required": false,
+          "dataType": "@feelings",
+          "value": "$feelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "833ebf4d-ad36-4e90-a9af-923a5316084f",
+          "name": "positiveBoolean",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "value": "$positiveBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "So, here\u0027s something on top of my mind. Let\u0027s hear about your appetite. \nHave you had any sudden weight loss or gain?",
+            "So, here\u0027s something on top of my mind. Let\u0027s talk about your appetite. \nHave you had any sudden changes in your weight?",
+            "So, here\u0027s something on top of my mind. Let\u0027s hear about your appetite. \nHave you had any sudden changes in your body weight?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

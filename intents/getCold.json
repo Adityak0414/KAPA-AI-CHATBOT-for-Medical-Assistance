@@ -1,0 +1,36 @@
+{
+  "id": "9ef850fa-02fa-486e-8755-3007ab03aef7",
+  "name": "getCold",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Drink plenty of hot water and have a tylenol tablet. Rest for a while and if you feel uneasy then visit the neares clinic",
+            "Consider visiting a doctor if you feel too uneasy. Otherwise take a tylenol tablet and rest for a while. Do not forget to drink plenty of hot water"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

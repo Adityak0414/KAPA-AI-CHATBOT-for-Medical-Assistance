@@ -1,0 +1,857 @@
+[
+  {
+    "id": "54d16b78-26a6-40ac-99d4-0d3472b7d58e",
+    "data": [
+      {
+        "text": "doing ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c86f0e5-0610-4b75-9dca-caf03c7ceff5",
+    "data": [
+      {
+        "text": "Life is ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b2ba56a-54c8-4230-84fe-1ecd20da0cd6",
+    "data": [
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3992dc30-d95a-4cb2-9aae-434b67aad2db",
+    "data": [
+      {
+        "text": "my day was ",
+        "userDefined": false
+      },
+      {
+        "text": "awful",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca022028-a2cc-41fd-80db-b19fc72008cd",
+    "data": [
+      {
+        "text": "My day was good. Could have been ",
+        "userDefined": false
+      },
+      {
+        "text": "better",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc800a42-35db-466d-9548-012b616a6526",
+    "data": [
+      {
+        "text": "My day was very ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "658b3825-46d3-47bd-8d99-f83f06ea70e4",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "ok",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6ad1f71-b0a4-4474-b34b-0f4bf998c1e3",
+    "data": [
+      {
+        "text": "Its going really ",
+        "userDefined": false
+      },
+      {
+        "text": "miserable",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11dc26b3-d04a-4fc9-a34c-5b9858b46adb",
+    "data": [
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4fbdb8d-9d3b-4e3b-aeac-f68f1a90ce8f",
+    "data": [
+      {
+        "text": "feeling blue",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45dde299-5165-4e70-a3ba-60ba3b085883",
+    "data": [
+      {
+        "text": "not doing good",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62326a00-b0d0-471b-b3ee-0d60ca2a6371",
+    "data": [
+      {
+        "text": "Miserable",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58dc7c5c-2054-4f31-a2e4-7e113be24be4",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "healthy",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c913315-c99f-48e0-bf24-aba68ddadb24",
+    "data": [
+      {
+        "text": "I think I am ",
+        "userDefined": false
+      },
+      {
+        "text": "irritated",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "100a9381-95c3-4db4-b5ac-4f30dd70b024",
+    "data": [
+      {
+        "text": "Very ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d3b0c9f-7b3b-49ae-92cc-99b3999cb882",
+    "data": [
+      {
+        "text": "My day was good I think",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "403e6cff-b990-4094-89b3-3f33a2cbb20e",
+    "data": [
+      {
+        "text": "My day was ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cee2b86-ea68-4530-93c9-fe98606a9729",
+    "data": [
+      {
+        "text": "terrible",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      },
+      {
+        "text": " day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d88035c-6ada-4df6-95a9-55ca71d9b65d",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "awful",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "2 days",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1100584b-dbb6-4e88-87b4-f9d3681c8f7f",
+    "data": [
+      {
+        "text": "I could do ",
+        "userDefined": false
+      },
+      {
+        "text": "worse",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "605b5a02-ac3b-43e6-9716-7ea190971da3",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      },
+      {
+        "text": " from yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a846b97-7e40-4653-ae25-2b494dd229d5",
+    "data": [
+      {
+        "text": "I am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02699edb-b91d-4461-8784-3637811ec10f",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4bbd37a-e3d5-4041-8bd3-2779e2b3d189",
+    "data": [
+      {
+        "text": "It is ",
+        "userDefined": false
+      },
+      {
+        "text": "not going great",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d61cfb7f-3109-433e-96d0-5b6d6748ab17",
+    "data": [
+      {
+        "text": "It was ok. But I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "better",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      },
+      {
+        "text": " than yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2710ebb1-5134-460c-b0b1-e3b0b6b4fd73",
+    "data": [
+      {
+        "text": "not so good",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90205c10-18a8-4380-a765-c3fa61ce4070",
+    "data": [
+      {
+        "text": "It could have been ",
+        "userDefined": false
+      },
+      {
+        "text": "better",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d4aee8b-5293-481d-9b83-d861040208ef",
+    "data": [
+      {
+        "text": "Its going ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f36aae9b-a746-4066-b329-cbbc8f0f4f37",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "hurt",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdb1eea2-2be8-4427-bbc7-d8262743b9ca",
+    "data": [
+      {
+        "text": "Hmmm....I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "lonely",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ddd46f6-3d31-4c27-a232-6adb09fd3fbf",
+    "data": [
+      {
+        "text": "Bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b96918e-658c-41b7-a6ca-a5b27006d3cb",
+    "data": [
+      {
+        "text": "I am doing ",
+        "userDefined": false
+      },
+      {
+        "text": "ok",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "668bf9c5-80ca-4a23-ab16-502ee748fccb",
+    "data": [
+      {
+        "text": "Awful",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "462ddb3e-e323-4dd8-ad30-a432fd44a1f0",
+    "data": [
+      {
+        "text": "I am.",
+        "userDefined": false
+      },
+      {
+        "text": "miserable",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d22773a-f633-43b6-ad20-33b26f1f335e",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "low",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7420c6e2-88e0-415b-9232-fbb5f624a8ea",
+    "data": [
+      {
+        "text": "ehh... I am ",
+        "userDefined": false
+      },
+      {
+        "text": "ok",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "101ddfbc-ba04-4d82-b515-d7f41b64118a",
+    "data": [
+      {
+        "text": "My day was ",
+        "userDefined": false
+      },
+      {
+        "text": "awful",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18dacdaa-b95e-4594-9011-d02a1bfe58f7",
+    "data": [
+      {
+        "text": "Good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d940cfd-a632-49d3-b70d-4cae0b4c367c",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "bit under the weather",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "055ec3ba-ab39-434a-a0d0-9ae000903776",
+    "data": [
+      {
+        "text": "I have high ",
+        "userDefined": false
+      },
+      {
+        "text": "temper",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0982a9d3-ef77-445f-9c0e-e088dd77d585",
+    "data": [
+      {
+        "text": "I am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "terrible",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ed55ead-0228-4774-96ec-6b33f48caf72",
+    "data": [
+      {
+        "text": "I had a ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      },
+      {
+        "text": " conversation with a friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feff3101-bbb4-4f74-9be1-38d11f6b1fc6",
+    "data": [
+      {
+        "text": "I think I am ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d58148d8-1fd9-4035-b57f-7cfe88c7123d",
+    "data": [
+      {
+        "text": "I am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c9abef2-b19e-42a6-871c-5bf9cc5c89f2",
+    "data": [
+      {
+        "text": "ehh...I am ",
+        "userDefined": false
+      },
+      {
+        "text": "ok",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

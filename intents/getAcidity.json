@@ -1,0 +1,51 @@
+{
+  "id": "bb7796d4-5d8d-4cd3-8c47-49656832a5bf",
+  "name": "getAcidity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a803dc26-2523-455b-935c-dec72e62c74a",
+          "name": "negativefeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativefeelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Drink something cold. If the irritation persists, then drink Dygeine syrup or Eno solution. Visit the doctor if it still persists. It might be a serious condition.",
+            "Drink Dygeine syrup or Eno solution. If the irritation persists, then drink something cold.  Visit the doctor if it does not get cured. It might be something serious."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
