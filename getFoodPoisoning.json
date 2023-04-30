@@ -1,0 +1,36 @@
+{
+  "id": "5ba759fa-2c29-485b-b3cc-d625f59be7b7",
+  "name": "getFoodPoisoning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This happens usually. Take Bismuth tablet. Avoid certain food items such as meat, eggs, etc until you feel better. Consult a doctor or visit the nearest hospital.",
+            "This is a usual condition.Avoid certain food items such as meat, eggs, etc until you feel better. Take Bismuth tablet.  Consult a doctor or visit the nearest hospital."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

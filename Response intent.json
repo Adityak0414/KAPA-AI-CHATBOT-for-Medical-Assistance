@@ -1,0 +1,95 @@
+{
+  "id": "81a4ccc6-c219-42e2-8f85-a4c454655306",
+  "name": "Response intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "I",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "am",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "not",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "feeling",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "well",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0ea67dc1-db5f-4306-9ee5-ebd58bc5f9b4",
+          "name": "feelings",
+          "required": false,
+          "dataType": "@feelings",
+          "value": "$feelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d051f7a6-d22b-49af-903d-55b38e1edcea",
+          "name": "negativefeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativefeelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tell me what happenned",
+            "What happened",
+            "Tell me how are you feeling",
+            "Tell me your problem",
+            "What is the issue",
+            "Tell me in detail"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

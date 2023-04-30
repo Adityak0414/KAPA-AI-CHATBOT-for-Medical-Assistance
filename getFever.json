@@ -1,0 +1,36 @@
+{
+  "id": "407855e6-541c-4769-9e70-904048a9ee57",
+  "name": "getFever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Take a tylonol tablet and rest for a while. Visit the nearest hospital if you feel like the body feels weaker than usual. Do not forget to drink plenty of lukewarm water",
+            "Consider taking a tylonol tablet and rest. Drink plenty of lukewarm water. Visit the doctor if you feel uneasy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

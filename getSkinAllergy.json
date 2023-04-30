@@ -1,0 +1,51 @@
+{
+  "id": "b06fdbcf-ea78-406f-8375-2b5afdf632a1",
+  "name": "getSkinAllergy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "14b1306d-5ac4-4eb9-9206-2347baa8437b",
+          "name": "negativefeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativefeelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It might be rashes. Apply Soframycin cream to the affected area. A cool compress or a shower can help you get relief. Visit a skin specialist if the irritation is too much.",
+            "Apply Soframycin cream onto the affected area. A cool compress or a shower can help you get relief. Visit a skin specialist if it irritates too much."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

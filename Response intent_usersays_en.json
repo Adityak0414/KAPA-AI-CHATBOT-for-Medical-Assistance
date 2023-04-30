@@ -1,0 +1,211 @@
+[
+  {
+    "id": "4c1f27e2-896c-42ac-9e51-197a461aa4f4",
+    "data": [
+      {
+        "text": "unwell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9d10b0b-21d5-44d8-85f7-41593afffcd6",
+    "data": [
+      {
+        "text": "not well",
+        "meta": "@negativeFeelings",
+        "alias": "negativefeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2c22ed4-9476-48f5-9c29-440f31ab94a3",
+    "data": [
+      {
+        "text": "My health seems to be deprecating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9237c2bb-4427-4ab6-a02b-2e86988516d4",
+    "data": [
+      {
+        "text": "My health is deteriorating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ef10392-1cb1-43cc-82db-910fc7283535",
+    "data": [
+      {
+        "text": "I am not feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cf2e23b-4995-4bd0-b1e8-ca79955d89ee",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "not doing well",
+        "meta": "@negativeFeelings",
+        "alias": "negativefeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b326b90e-c918-4166-925c-41dc703f7b18",
+    "data": [
+      {
+        "text": "My health is not ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbdc5e30-de3f-4c15-8951-a3c7f5914936",
+    "data": [
+      {
+        "text": "My health is not well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e972105-8ea2-4c0a-8a4c-7822e46a8593",
+    "data": [
+      {
+        "text": "I feel weak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a69578d-2227-499a-ae7a-82077bfce0a4",
+    "data": [
+      {
+        "text": "I feel different",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76fed834-4052-48c4-b0ae-e0ac2f1985f5",
+    "data": [
+      {
+        "text": "I feel unhealthy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5162e50-7feb-4094-adf4-103cf482931e",
+    "data": [
+      {
+        "text": "I feel odd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36a0f0f1-2754-4bc7-bd2e-59c9a70f524f",
+    "data": [
+      {
+        "text": "I feel uneasy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18cf978d-d79f-4168-bb4d-a828a9052134",
+    "data": [
+      {
+        "text": "I am unwell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "801a8abc-da5a-420a-bb0d-92c5c808412b",
+    "data": [
+      {
+        "text": "I am feeling unwell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]
